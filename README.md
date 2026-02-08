@@ -75,6 +75,7 @@ bash
 python test_quick.py
 Project Structure
 text
+```
 PolicyGapFixer/
 ├── src/                    # Source code
 │   ├── main.py           # Main pipeline
