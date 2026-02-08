@@ -1,0 +1,15 @@
+POLICY: INFORMATION SECURITY MANAGEMENT SYSTEM
+        
+1.0 Purpose
+This policy establishes guidelines for protecting organizational information assets.
+        
+2.0 Scope
+Applies to all employees and systems.
+        
+3.0 Policy Statements
+3.1 Information security roles and responsibilities shall be defined.
+3.2 All users must complete annual security awareness training.
+3.3 Security incidents must be reported to IT department.
+        
+4.0 Compliance
+This policy shall be reviewed annually.
