@@ -78,15 +78,3 @@ PolicyGapFixer/
 ├── outputs/              # Generated results
 ├── requirements.txt      # Dependencies
 └── README.md            # This file
-Output Files
-For each processed policy, the system creates:
-
-gap_analysis.json: Detailed gap analysis
-
-revised_policy.txt: Improved policy text
-
-revision_details.json: Track changes and rationale
-
-implementation_roadmap.json: Phased improvement plan
-
-summary.json: Executive summaryU
